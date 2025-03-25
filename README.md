@@ -17,3 +17,7 @@ Otherwise, print just the number.
 **My Syntax are shown below**
 
 ![alt text](Python_Image/Pythonfizz1.png)
+
+**Output are shown below**
+
+![alt text](Python_Image/Pythonfizz2.png)
