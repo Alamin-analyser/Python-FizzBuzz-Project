@@ -13,4 +13,5 @@ If a number is both divisible by 3 and by 5, print "fizzbuzz."
 Otherwise, print just the number.
 
 **I have used Python syntax to follow the criteria to complete the FizzBuzz project** 
+
 My Syntax are shown below
