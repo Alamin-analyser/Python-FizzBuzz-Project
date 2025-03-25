@@ -14,10 +14,10 @@ Otherwise, print just the number.
 
 **I have used Python syntax to follow the criteria to complete the FizzBuzz project** 
 
-**My Syntax are shown below**
+* **My Syntax are shown below**
 
 ![alt text](Python_Image/Pythonfizz1.png)
 
-**Output are shown below**
+* **Output are shown below**
 
 ![alt text](Python_Image/Pythonfizz2.png)
